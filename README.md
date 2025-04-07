@@ -31,5 +31,8 @@ In *Veldoria*, you are summoned to a cursed realm filled with hostile creatures 
 In your command prompt, sit in the root folder and run:
 
 ```bash
-bash Veldoria.sh
+git clone git@github.com:Engeryu/Veldoria_Bash.git # or https://github.com/Engeryu/My_Sysinfo_Bash.git if SSH-key not configured
+cd Veldoria_Bash
+./Veldoria.sh # Linux Terminal
+bash Veldoria.sh # Windows Powershell with WSL
 ```
