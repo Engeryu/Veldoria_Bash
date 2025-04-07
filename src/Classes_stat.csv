@@ -1,0 +1,6 @@
+ID,Class,HP,MP,STR,INT,DEF,RES,SPD,LUCK
+1,Warrior,20,5,10,2,8,3,5,1
+2,Mage,10,15,3,12,2,10,8,2
+3,Rogue,15,10,6,5,5,4,12,3
+4,Paladin,25,8,8,6,10,5,4,2
+5,Hunter,18,12,7,8,6,6,10,5
